@@ -1,4 +1,3 @@
-```markdown
 # Análisis Exploratorio de Datos (EDA) del Mercado Inmobiliario en [Tu Ciudad/Región]
 
 ![Real Estate Banner](https://i.imgur.com/example-image.jpg)
@@ -23,85 +22,5 @@ Este proyecto consiste en un Análisis Exploratorio de Datos (EDA) sobre el merc
 
 ## 📂 Estructura del Repositorio
 
-```
 
-.
-├── 📁 data/
-│   └── real_estate_data.csv        # Dataset utilizado
-├── 📁 notebooks/
-│   └── eda_real_estate.ipynb       # Notebook con todo el análisis
-└── README.md                       # Este archivo
-
-````
-
-## 📈 Proceso de Análisis
-
-1. **Obtención y Carga de Datos:**  
-   Se cargó un dataset con **[Número]** registros de propiedades obtenido de **[Fuente de los Datos, ej. Kaggle, Web Scraping]**.
-
-2. **Limpieza de Datos (Data Cleaning):**
-   - Manejo de valores nulos en columnas como `baños`, `estacionamientos`, etc.
-   - Conversión de tipos de datos (ej. precios de `string` a `float`).
-   - Extracción de información relevante de descripciones textuales.
-
-3. **Análisis Exploratorio (EDA):**
-   - Análisis univariado para entender la distribución de cada variable (precios, superficies).
-   - Análisis bivariado para explorar la relación entre el precio y otras características.
-   - Matriz de correlación para identificar las variables más influyentes.
-
-4. **Visualización de Datos:**  
-   Se generaron diversos gráficos, incluyendo:
-   - Histogramas de distribución de precios.
-   - Diagramas de caja (Boxplots) para comparar precios por barrio.
-   - Diagramas de dispersión (Scatterplots) para ver la relación precio vs. superficie.
-   - Mapas de calor para visualizar la correlación.
-
-## 🎯 Conclusiones Principales
-
-- Se encontró una fuerte correlación positiva entre la **superficie total** y el **precio** de la propiedad.
-- Los barrios de **[Nombre del Barrio 1]** y **[Nombre del Barrio 2]** presentan el metro cuadrado más caro de la ciudad.
-- Las propiedades con más de **[Número]** habitaciones tienden a tener un incremento de precio significativamente mayor.
-
-## 🚀 Cómo Ejecutar este Proyecto
-
-1. Clona este repositorio:
-   ```bash
-   git clone https://github.com/tu-usuario/nombre-del-repositorio.git
-````
-
-2. Navega al directorio del proyecto:
-
-   ```bash
-   cd nombre-del-repositorio
-   ```
-
-3. Instala las dependencias necesarias:
-
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-   > **Nota:** Asegúrate de tener un archivo `requirements.txt`. Si no, lista las librerías directamente aquí.
-
-4. Abre el notebook en Jupyter o Google Colab:
-
-   ```
-   notebooks/eda_real_estate.ipynb
-   ```
-
-## ✒️ Autor
-
-* **[Tu Nombre]** - [Tu Perfil de LinkedIn o GitHub]
-
-```
-
----
-
-### ✅ ¿Qué puedes hacer ahora?
-- Reemplaza los campos entre **[corchetes]** con tu información real.
-- Si no tienes un `requirements.txt`, puedo ayudarte a generarlo desde tu notebook.
-- Puedes previsualizar cómo quedará en GitHub subiendo el archivo a tu repo.
-
-¿Quieres que te ayude a armar el `requirements.txt` o a mejorar el banner visual del README?
-```
 
