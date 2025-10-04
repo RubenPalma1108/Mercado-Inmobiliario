@@ -1,6 +1,6 @@
 # Análisis Exploratorio de Datos (EDA) del Mercado Inmobiliario en [Tu Ciudad/Región]
 
-![Real Estate Banner](https://i.imgur.com/example-image.jpg) ## 📝 Descripción del Proyecto
+## 📝 Descripción del Proyecto
 
 Este proyecto consiste en un Análisis Exploratorio de Datos (EDA) sobre el mercado inmobiliario de [Nombre de la Ciudad/Región]. El objetivo es descubrir patrones, tendencias y relaciones clave que influyen en los precios de las propiedades. A través de la limpieza de datos, el análisis estadístico y la visualización, este estudio busca responder preguntas como:
 
